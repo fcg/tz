@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,20 +12,32 @@
     
         
     <url>
-     <loc>None/na/ca/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <loc>None/na/us/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/na/qc/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/na/us/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <loc>None/na/mb/</loc>
+     <lastmod>2016-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/na/pei/</loc>
+     <lastmod>2016-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/na/sk/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -34,14 +46,14 @@
     
         
     <url>
-     <loc>None/oc/au/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <loc>None/oc/nz/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/oc/nz/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <loc>None/oc/sa/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -51,37 +63,37 @@
         
     <url>
      <loc>None/eu/uk/</loc>
-     <lastmod>2016-04-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/eu/pt/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/eu/cy/</loc>
-     <lastmod>2016-04-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/eu/gr/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/eu/es/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/eu/gr/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/eu/hu/</loc>
-     <lastmod>2016-04-11</lastmod>
+     <lastmod>2016-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/eu/pt/</loc>
+     <lastmod>2016-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
