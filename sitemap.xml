@@ -4,60 +4,26 @@
     
         
     <url>
-     <loc>None/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/na/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/na/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/oc/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/oc/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>None/na/us/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/na/qc/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/na/mb/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/na/pei/</loc>
-     <lastmod>2016-04-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>None/na/sk/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/eu/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -66,14 +32,32 @@
     
         
     <url>
-     <loc>None/oc/nz/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/na/us/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/oc/sa/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/na/qc/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.hk/na/mb/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.hk/na/pei/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.hk/na/sk/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -82,38 +66,54 @@
     
         
     <url>
-     <loc>None/eu/uk/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/oc/nz/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/cy/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/oc/sa/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://tz.flyabroad.hk/eu/uk/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/es/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/eu/cy/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/gr/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/eu/es/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/hu/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/eu/gr/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/eu/pt/</loc>
-     <lastmod>2016-04-13</lastmod>
+     <loc>http://tz.flyabroad.hk/eu/hu/</loc>
+     <lastmod>2016-04-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.hk/eu/pt/</loc>
+     <lastmod>2016-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
