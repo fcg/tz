@@ -4,59 +4,25 @@
     
         
     <url>
-     <loc>http://tz.flyabroad.hk/</loc>
+     <loc>http://tz.flyabroad.com.hk/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/na/</loc>
+     <loc>http://tz.flyabroad.com.hk/na/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/oc/</loc>
+     <loc>http://tz.flyabroad.com.hk/oc/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://tz.flyabroad.hk/na/us/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.hk/na/qc/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.hk/na/mb/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.hk/na/pei/</loc>
-     <lastmod>2016-04-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.hk/na/sk/</loc>
+     <loc>http://tz.flyabroad.com.hk/eu/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -66,13 +32,31 @@
     
         
     <url>
-     <loc>http://tz.flyabroad.hk/oc/nz/</loc>
+     <loc>http://tz.flyabroad.com.hk/na/us/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/oc/sa/</loc>
+     <loc>http://tz.flyabroad.com.hk/na/qc/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/na/mb/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/na/pei/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/na/sk/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -82,37 +66,53 @@
     
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/uk/</loc>
+     <loc>http://tz.flyabroad.com.hk/oc/nz/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/cy/</loc>
+     <loc>http://tz.flyabroad.com.hk/oc/sa/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/eu/uk/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/es/</loc>
+     <loc>http://tz.flyabroad.com.hk/eu/cy/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/gr/</loc>
+     <loc>http://tz.flyabroad.com.hk/eu/es/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/hu/</loc>
+     <loc>http://tz.flyabroad.com.hk/eu/gr/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>http://tz.flyabroad.hk/eu/pt/</loc>
+     <loc>http://tz.flyabroad.com.hk/eu/hu/</loc>
+     <lastmod>2016-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/eu/pt/</loc>
      <lastmod>2016-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
