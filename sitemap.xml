@@ -61,6 +61,18 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>http://tz.flyabroad.com.hk/na/gl/</loc>
+     <lastmod>2018-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/na/antigua/</loc>
+     <lastmod>2018-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
@@ -119,6 +131,18 @@
         
     <url>
      <loc>http://tz.flyabroad.com.hk/eu/pt/</loc>
+     <lastmod>2018-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/eu/slovak/</loc>
+     <lastmod>2018-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/eu/malta/</loc>
      <lastmod>2018-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
