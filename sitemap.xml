@@ -32,6 +32,28 @@
     
         
     <url>
+     <loc>http://tz.flyabroad.com.hk/oc/nz/</loc>
+     <lastmod>2018-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/oc/sa/</loc>
+     <lastmod>2018-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://tz.flyabroad.com.hk/oc/wa/</loc>
+     <lastmod>2018-05-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
      <loc>http://tz.flyabroad.com.hk/na/us/</loc>
      <lastmod>2018-05-31</lastmod>
      <changefreq>daily</changefreq>
@@ -69,28 +91,6 @@
         
     <url>
      <loc>http://tz.flyabroad.com.hk/na/antigua/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>http://tz.flyabroad.com.hk/oc/nz/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.com.hk/oc/sa/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://tz.flyabroad.com.hk/oc/wa/</loc>
      <lastmod>2018-05-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
